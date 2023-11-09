@@ -3,7 +3,7 @@
 
 ---
 
-## My contacts 
+## My contacts
 
 * e-mail: [vampir2204@gmail.com](vampir2204@gmail.com)
 * telegram: [@the_Sokovnin](https://t.me/the_Sokovnin)
@@ -12,7 +12,7 @@
 
 ## Bio
 
-Im from Moscow. My goals: to learn frontend development and work to digital company. I like to khow a new things in the frontend. Every day i spend a lot of my time for programming. 
+Im from Moscow. My goals: to learn frontend development and work to digital company. I like to khow a new things in the frontend. Every day i spend a lot of my time for programming.
 
 ---
 
@@ -23,7 +23,7 @@ Im from Moscow. My goals: to learn frontend development and work to digital comp
 * js  (basic)
 * git (basic)
 * figma (for web development)
-* vscode 
+* vscode
 
 ---
 
